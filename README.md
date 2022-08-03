@@ -1,1 +1,3 @@
 # human-learning-styles
+
+A person can be referred to the way a person prefer to acquire, process and retain information. The most famous learning style classification model is the VAK model, according to this model, there are three kinds of learners, auditory, visual and kinesthetic. But many research has shown that people prefer more than one way of learning, hence categorizing a person to just one of the above said types is not accurate. We require a way to identify our learning styles in a more accurate way. Machine learning can be used in this field to achieve our aim in the most efficient way. Once we have accurate information about learning styles, we can use it to suggest appropriate teaching methods to the particular students.
