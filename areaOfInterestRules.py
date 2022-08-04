@@ -40,4 +40,4 @@ class areaOfInterest(KnowledgeEngine):
         
     @Rule(learningCombination(['V']))
     def V(self):
-self.value="Medical"
+        self.value="Medical"
